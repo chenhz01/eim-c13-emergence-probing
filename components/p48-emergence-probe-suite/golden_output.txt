@@ -1,0 +1,1 @@
+[P48] ({'plan': True, 'verify': False, 'reuse': True}, 0.67)
